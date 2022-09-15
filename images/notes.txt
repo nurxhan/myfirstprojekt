@@ -1,0 +1,3 @@
+notes:
+[write you program in you c++
+]
